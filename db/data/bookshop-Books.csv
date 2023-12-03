@@ -1,0 +1,4 @@
+BookID,Category_CategoryID,BookName,Price
+1,2,AI_Begin,10
+2,1,design_system,20
+3,3,Machine_Learning,15
